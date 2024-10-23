@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://vercel.com/jackthomas00s-projects/deploy-this-repo-jackthomas00/deployments
 
 
